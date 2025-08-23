@@ -19,7 +19,7 @@ The goal is to arrange the tiles back into the correct order by sliding them int
 
 3. Run the game (press ▶️ in the editor).
 
-4. Select a level and start playing!
+4. start playing!
 
 
 🎯 Controls
@@ -29,9 +29,9 @@ The goal is to arrange the tiles back into the correct order by sliding them int
 
 📂 Project Structure:
 
-scenes/ → Game scenes and levels.
-scripts/ → GDScript files.
-assets/ → Images, tiles, and other resources.
+- scenes/ → Game scenes and levels.
+- scripts/ → GDScript files.
+- assets/ → Images, tiles, and other resources.
 
 
 🛠️ Requirements: 
