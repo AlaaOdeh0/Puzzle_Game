@@ -9,11 +9,6 @@ Challenge yourself by solving puzzles of different grid sizes! 🧩
 
 ---
 
-## 🖼️ Screenshots / Preview
-![Puzzle Preview](assets/screenshots/demo.png)  
-
----
-
 ## 🧩 About the Game  
 - Classic **sliding tile puzzle** mechanic.  
 - Built with **Godot Engine 4.x**.  
@@ -38,12 +33,13 @@ Challenge yourself by solving puzzles of different grid sizes! 🧩
 - Keep sliding until the grid is **fully solved**.  
 
 ---
-
 ## 📂 Project Structure  
-  scenes/ → Game scenes and levels.
-  scripts/ → GDScript files.
-  assets/ → Images, tiles, and other resources.
-  README.md   
+puzzle_game/
+├── assets/        # Images, tiles, and resources
+├── scenes/        # Game scenes and levels
+├── scripts/       # GDScript files
+└── README.md      # Documentation
+
   
 ---
 
