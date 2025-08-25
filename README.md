@@ -36,6 +36,7 @@ Challenge yourself by solving puzzles of different grid sizes! 🧩
 ## 📂 Project Structure
 
 puzzle_game/
+
 ├── assets/     
 ├── scenes/     
 ├── scripts/    
