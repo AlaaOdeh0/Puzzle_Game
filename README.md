@@ -1,40 +1,64 @@
-# 🎮 Sliding Puzzle Game
+# 🎮 Sliding Puzzle Game  
 
-A simple **sliding puzzle game** made with [Godot Engine].  
+![Godot](https://img.shields.io/badge/Godot-4.x-blue?logo=godot-engine)  
+![License](https://img.shields.io/badge/License-MIT-green)  
+![Stars](https://img.shields.io/github/stars/alaaodeh0/puzzle_game?style=social)  
 
-## 🧩 About the Game
-- Classic sliding tile puzzle game.
-- Built with **Godot Engine 4.x**.
-- Contains **2 levels**:
-  - **Level 1**: Smaller grid (easy).
-  - **Level 2**: Larger grid (challenging).
+A **classic sliding tile puzzle** built with [Godot Engine 4.x].  
+Challenge yourself by solving puzzles of different grid sizes! 🧩  
 
-The goal is to arrange the tiles back into the correct order by sliding them into the empty space.
+---
 
-## 🚀 How to Play
-1. Clone or download the project:
-   ```bash
-   git clone https://github.com/alaaodeh0/puzzle_game.git
-2. Open the project in Godot Engine.
+## 🖼️ Screenshots / Preview
+![Puzzle Preview](assets/screenshots/demo.png)  
 
-3. Run the game (press ▶️ in the editor).
+---
 
-4. start playing!
+## 🧩 About the Game  
+- Classic **sliding tile puzzle** mechanic.  
+- Built with **Godot Engine 4.x**.  
+- Includes **2 levels**:  
+  - Level 1 → Smaller grid (**easy**).  
+  - Level 2 → Larger grid (**challenging**).  
+- Goal: Rearrange the tiles into the **correct order** by sliding them into the empty space.  
 
+---
 
-🎯 Controls
+## 🚀 How to Play  
+1. Clone the repo:  
+   `git clone https://github.com/alaaodeh0/puzzle_game.git`  
+2. Open the project in **Godot Engine 4.x**.  
+3. Run the game (**▶️ Play button** in the editor).  
+4. Start playing!  
 
-- Mouse click on a tile next to the empty space to slide it.
-- Rearrange until the full picture/grid is solved.
+---
 
-📂 Project Structure:
+## 🎯 Controls  
+- 🖱️ Click on a tile next to the empty space → it slides into it.  
+- Keep sliding until the grid is **fully solved**.  
 
-- scenes/ → Game scenes and levels.
-- scripts/ → GDScript files.
-- assets/ → Images, tiles, and other resources.
+---
 
+## 📂 Project Structure  
+  scenes/ → Game scenes and levels.
+  scripts/ → GDScript files.
+  assets/ → Images, tiles, and other resources.
+  README.md   
+  
+---
 
-🛠️ Requirements: 
-Godot Engine 4.x
+## 🛠️ Requirements  
+- [Godot Engine 4.x](https://godotengine.org/download)  
 
+---
 
+## 🔮 Future Improvements  
+- Add a **timer & move counter**.  
+- Add **random puzzle images** instead of numbers.  
+- Add **sound effects & animations**.  
+- Mobile (touch) support.  
+
+---
+
+## 🤝 Credits  
+- Built with ❤️ using [Godot Engine](https://godotengine.org).  
