@@ -33,12 +33,15 @@ Challenge yourself by solving puzzles of different grid sizes! 🧩
 - Keep sliding until the grid is **fully solved**.  
 
 ---
-## 📂 Project Structure  
+## 📂 Project Structure
+
+```text
 puzzle_game/
 ├── assets/        # Images, tiles, and resources
 ├── scenes/        # Game scenes and levels
 ├── scripts/       # GDScript files
 └── README.md      # Documentation
+
 
   
 ---
