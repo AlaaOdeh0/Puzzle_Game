@@ -35,12 +35,11 @@ Challenge yourself by solving puzzles of different grid sizes! 🧩
 ---
 ## 📂 Project Structure
 
-```text
 puzzle_game/
-├── assets/        # Images, tiles, and resources
-├── scenes/        # Game scenes and levels
-├── scripts/       # GDScript files
-└── README.md      # Documentation
+├── assets/     
+├── scenes/     
+├── scripts/    
+└── README.md
 
 
   
